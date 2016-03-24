@@ -12,16 +12,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="성경아~~ 힘내자~~! 우왕"
+        android:text="Sung Gyeong Kim"
         android:id="@+id/textView"
-        android:layout_below="@+id/textView"
-        android:layout_toRightOf="@+id/textView"
-        android:layout_toEndOf="@+id/textView"
-        android:layout_marginTop="214dp" />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="오예! 음! 오! 아! 예!"
-        android:id="@+id/textView" />
-
+        android:layout_below="@+id/textView"></TextView>
 </RelativeLayout>
